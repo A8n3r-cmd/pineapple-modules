@@ -1,0 +1,12 @@
+{
+    "id": "wifipinephisher",
+    "name": "Wifi PinePhisher",
+    "version": "1.0",
+    "author": "A8n3r-cmd",
+    "description": "A module for phishing attacks, credential capture, and network manipulation.",
+    "dependencies": [],
+    "update": {
+        "version": "1.0",
+        "changelog": "Initial release with phishing capabilities and extension support."
+    }
+}
